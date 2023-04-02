@@ -1,4 +1,25 @@
-### Hi there 👋
+<img width=1500 src="https://user-images.githubusercontent.com/109121563/229381372-a7d53e87-bc71-41c7-96ba-f5a7d4500c6d.png"><br><br>
+<h1>I'm Jacky 👋</h1>
+<h3>Software Engineer  |  Cybersecurity Enthusiast  |  Scrum Master  |  Military Spouse 🇺🇸</h2>
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JaclynCarey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JaclynCarey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JaclynCarey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JaclynCarey | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
+
+
+
+[linkedin]: https://linkedin.com/in/jaclyncarey
+[email]: mailto:contact@jaclyncarey.com
+[twitter]: https://twitter.com/jackycarey
+[instagram]: https://www.instagram.com/jackycancode/
+
+
 
 <!--
 **jaclynscarey/jaclynscarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
