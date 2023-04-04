@@ -5,17 +5,32 @@
 <br>
 <br>
 
+<h2 align="left">Professional Certifications</h2>
 
 
-<br><br>
+[<img align="left" width="100px" src="https://user-images.githubusercontent.com/109121563/229836568-9635ff1b-481a-4600-84ce-71d97fc9f71a.png" alt="CompTia A+">][CompTiaA+]
+[<img align="left" width="100px" src="https://user-images.githubusercontent.com/109121563/229837439-4d63b68e-18cd-453d-8431-e6cb5c0824a3.png" alt="ISC2 CC">][ISC2 CC]
+[<img align="left" width="100px" src="https://user-images.githubusercontent.com/109121563/229837826-d94bd307-5950-4fa2-9e9f-5657fef40167.png" alt="PSM_I">][PSM I]
+[<img align="left" width="100px" src="https://user-images.githubusercontent.com/109121563/229841356-f9717695-8e93-4698-ae20-716239066252.png" alt="ITIL 4">][ITIL4]
+[<img align="left" width="100px" src="https://user-images.githubusercontent.com/109121563/229842356-225d1923-1878-465d-bd83-352b3f1d97b1.png" alt="Google IT Support">][GoogleIT]
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JaclynCarey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JaclynCarey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JaclynCarey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JaclynCarey | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
+<br><br><br>
 
+[CompTiaA+]: https://www.credly.com/badges/ba6b595b-92a9-41dd-a0ea-89a7e163f825/public_url
+[ISC2 CC]: https://www.credly.com/badges/98e7392a-88aa-4706-ba81-0fe797b6034d/public_url
+[PSM I]: https://www.credly.com/badges/73f03cf7-8fef-41bc-8d9c-3c02def82207/public_url
+[ITIL4]: https://www.credly.com/badges/64895fab-4e01-47d4-8841-9ce4a26ed9ce/public_url
+[GoogleIT]: https://www.credly.com/badges/64895fab-4e01-47d4-8841-9ce4a26ed9ce/public_url
+
+<br><br><br>
+
+<h2 align="left"> 🤳 Connect with me:</h2>
+
+[<img align="center" alt="JaclynCarey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="JaclynCarey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="JaclynCarey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="JaclynCarey | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
 
 
 [linkedin]: https://linkedin.com/in/jaclyncarey
