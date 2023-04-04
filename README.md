@@ -5,11 +5,6 @@
 <br>
 <br>
 
-<h2>My Stats</h2>
-
-
-[![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaclynscarey)](https://github.com/jaclynscarey/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaclynscarey&langs_count=20)](https://github.com/jaclynscarey/github-readme-stats)
 
 
 <br><br>
@@ -43,4 +38,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h2>My Stats</h2>
+
+
+[![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaclynscarey)](https://github.com/jaclynscarey/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaclynscarey&langs_count=20)](https://github.com/jaclynscarey/github-readme-stats)
+
 -->
